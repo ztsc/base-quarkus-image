@@ -1,0 +1,1 @@
+# ztsc-base-quarkus-image
